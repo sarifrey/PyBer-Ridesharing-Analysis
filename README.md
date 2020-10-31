@@ -28,6 +28,6 @@ By reviewing the summary we can see that there are several key findings includin
 
 ## Summary/ Recommendtions 
 
-Based on my findings and the statisical insights...
+Based on my findings and the statisical insights.. 
 Three business recomendations 
 
