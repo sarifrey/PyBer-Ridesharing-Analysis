@@ -15,11 +15,10 @@ through analysis and aggregation of PyBers ride sharring data, I have created a 
 ![pyber_frame](https://github.com/DonnieData/PyBer_Analysis/blob/main/analysis/pyber_summary_frame.png)
 
 By reviewing the summary we can see that there are several key findings including: 
-- Urban cities have the highest ridership demand while rural cites have the least
+- Urban cities have the highest ridership demand while rural cites have the least.
 - Urban cities have 4x+ more drivers than suburban cities.
 - Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
-- the summary shows a relationship in which fare revenue is higher when there a surplus of drivers.
--
+- Rural cities have the hghest average fare per ride and driver. 
 
 
 
@@ -28,6 +27,6 @@ By reviewing the summary we can see that there are several key findings includin
 
 ## Summary/ Recommendtions 
 
-Based on my findings and the statisical insights.. 
+Based on the analsysis and its results recomendations to Pyber would be: 
 Three business recomendations 
 
