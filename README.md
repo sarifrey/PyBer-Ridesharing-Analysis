@@ -11,7 +11,7 @@ creating visualizations of rideshare data for PyBer to help improve access to ri
 - city type 
 
 ## Results 
-through analyzing and aggregating PyBers ride sharring data, I have prodcued the following statistical summary:
+through analysis and aggregation of PyBers ride sharring data, I have created a statistical overview and summary.
 ![pyber_frame](https://github.com/DonnieData/PyBer_Analysis/blob/main/analysis/pyber_summary_frame.png)
 
 By reviewing the summary we can see that there are several key findings including: 
