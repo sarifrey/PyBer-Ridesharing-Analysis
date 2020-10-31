@@ -19,7 +19,7 @@ By reviewing the summary we can see that there are several key findings includin
 - Urban cities have 4x+ more drivers than suburban cities.
 - Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
 - Rural cities have the hghest average fare per ride and driver. 
-
+- The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides. 
 
 
 ![pyber fare summary](https://github.com/DonnieData/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
@@ -27,6 +27,9 @@ By reviewing the summary we can see that there are several key findings includin
 
 ## Summary/ Recommendtions 
 
-Based on the analsysis and its results recomendations to Pyber would be: 
-Three business recomendations 
+Based on the analsysis and its results my business recomendations to Pyber are: 
+Rural cities 
+Increasing the ammount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. 
+Data for rural cities shows that the average fare per ride and average far per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. 
+
 
