@@ -1,7 +1,7 @@
 # PyBer_Analysis
-Visualizing ridesharing data with Python 
+Analyzing and visualizing ridesharing data with Python.
 ## Resources 
-
+- Software: Python 3.7.6, JupyterLab 2.26
 
 ## Overview 
 The purpose of this project is to perform exploratory analysis of Pyber ride sharing data in order to gain an understanding of ridership and fare metrics by the types of cities in which Pyber operates.
