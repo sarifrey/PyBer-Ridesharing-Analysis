@@ -20,10 +20,6 @@ By reviewing the summary we can see that there are several key findings includin
 - Rural cities have the highest average fare per ride and driver. 
 - The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides. 
 
-
-![pyber fare summary](https://github.com/DonnieData/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
-
-
 ## Summary
 
 Based on the analysis my business recommendations to Pyber are: 
