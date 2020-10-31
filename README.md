@@ -18,7 +18,7 @@ By reviewing the summary we can see that there are several key findings includin
 - Urban cities have the highest ridership demand while rural cites have the least
 - Urban cities have 4x+ more drivers than suburban cities.
 - Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
--the summary shows a relationship in which fare revenue is higher when there a surplus of drivers.
+- the summary shows a relationship in which fare revenue is higher when there a surplus of drivers.
 -
 
 
