@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# Ride Sharing Analysis
 Analyzing and visualizing ridesharing data with Python.
 ## Resources 
 - Software: Python 3.7.6, JupyterLab 2.26
